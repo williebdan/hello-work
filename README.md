@@ -1,2 +1,5 @@
 # hello-work
-Just another repository
+
+Hello Humans!
+
+Brett here, I learning GitHub for my Java projects.  
